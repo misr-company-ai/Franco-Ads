@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.FrancoTranslator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_mid</item>
+        <item name="colorPrimaryVariant">@color/purple_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/purple_light</item>
+        <item name="android:statusBarColor">@color/purple_dark</item>
+        <item name="android:windowBackground">@color/grey_bg</item>
+    </style>
+</resources>
